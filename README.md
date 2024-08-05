@@ -17,3 +17,5 @@ T4. he time taken for the pulse to return is measured.
 Using this time, the program calculates the distance to an object based on the speed of sound.
 5. The distance is then sent to the serial monitor to be displayed on the computer screen.
 6. There is a short delay before the next measurement cycle begins, ensuring readings are taken at regular intervals.
+![Screenshot 2024-08-05 221543](https://github.com/user-attachments/assets/2364bcf3-beaa-47f8-8eb5-451857514730)
+
