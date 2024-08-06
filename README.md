@@ -1,7 +1,7 @@
 # Tinkercad_mini_Projects
 I will be sharing all my tinkercad_mini_projects in this repository.
 
-### Distance_with_Ultrasonic_sensor
+### 1. Distance_with_Ultrasonic_sensor
 
 #### Setup Phase:
 
@@ -17,6 +17,7 @@ T4. he time taken for the pulse to return is measured.
 Using this time, the program calculates the distance to an object based on the speed of sound.
 5. The distance is then sent to the serial monitor to be displayed on the computer screen.
 6. There is a short delay before the next measurement cycle begins, ensuring readings are taken at regular intervals.
+<<<<<<< HEAD
 
 ### Temperature_sensor_reading
 
@@ -33,3 +34,7 @@ Using this time, the program calculates the distance to an object based on the s
 
 1. The temperature values in both Celsius and Fahrenheit are printed to the serial monitor.
 2. A delay of one second is included to space out the readings.
+=======
+![Screenshot 2024-08-05 221543](https://github.com/user-attachments/assets/2364bcf3-beaa-47f8-8eb5-451857514730)
+
+>>>>>>> 301473116f24e00e7f811ea88db92c8becb2aab4
